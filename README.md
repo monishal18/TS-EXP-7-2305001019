@@ -33,7 +33,7 @@ To perform spectral analysis on a simulated time series, identify dominant frequ
  
 ##  program 
 ```
-# EXPERIMENT 7: SPECTRAL ANALYSIS AND LINEAR FILTERS
+
 
 import numpy as np
 import matplotlib.pyplot as plt
